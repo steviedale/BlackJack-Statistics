@@ -1,0 +1,6 @@
+﻿  Driver.cpp
+c:\users\stevie\documents\coding\c++\blackjack statistics\black jack statistics\driver.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\stevie\documents\coding\c++\blackjack statistics\black jack statistics\driver.cpp(29): warning C4215: nonstandard extension used: long float
+c:\users\stevie\documents\coding\c++\blackjack statistics\black jack statistics\driver.cpp(99): warning C4215: nonstandard extension used: long float
+  Black Jack Statistics.vcxproj -> C:\Users\Stevie\Documents\Coding\C++\Blackjack Statistics\Debug\Black Jack Statistics.exe
+  Black Jack Statistics.vcxproj -> C:\Users\Stevie\Documents\Coding\C++\Blackjack Statistics\Debug\Black Jack Statistics.pdb (Partial PDB)
